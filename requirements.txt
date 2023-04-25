@@ -1,0 +1,6 @@
+pytest
+requests
+selene
+xlrd
+openpyxl
+pypdf
