@@ -20,6 +20,6 @@ with open(csv_path) as csvfile:
         name.append(row)
         print(row)
     assert name[0] == ['Anna', 'Pavel', 'Peter']
-    assert name[2] == ['Alex', 'Serj', 'Yana']
+    assert name[1] == ['Alex', 'Serj', 'Yana']
 
 
